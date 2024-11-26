@@ -30,7 +30,7 @@ jobs: # 执行的工作
       - name: Run TGForwarder.py
         run: python TGForwarder.py # 执行py文件
 
-      - name: Commit and push history.json file
+      - name: Commit 和 push history.json file
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
