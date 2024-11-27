@@ -342,7 +342,7 @@ if __name__ == '__main__':
     download_folder = 'downloads'
     api_id = 23428041
     api_hash = '9918781bb89f5b7f9923f902eec34f3f'
-    string_session = '1BVtsOIsBuxbxjj5Lj3yno5cf7t_0QREP7iw8LaFAWI0K_ZrsBZugeTfGrezPGTlHAWePEPWAhqkOrXN3kFay5QK85r3geeNA7iFu5344ep4PVWndGJc30zLLoojxmmVc18uN5xaEWcXvZ7Q092USTv2fIngP_VGV9U-1keyg5GB5GWI0SpzGIFmBIqGFJbY4KGyn6xltm_c010EeQbN16PSWn4Qwv8XLJbcFVUCCYF827eYIVxSBaKTl5CIly4OA77DmwF4bNZeX6H0pAyxOkXidQbUQHzO_572k_eBNbdLXnzr3Ef39PYe3gpBqOM0ABrW4hhQgVpQZEzIKhraswUI5wF4GpGk='
+    string_session = ' 1BVtsOK8Buy4qS726SN6LJp8JKNL-cPp-jRBRF70yQCD-fHz8CB-ljPBMZc84Jm30lwQse1qHbYvX3k_8spvfYtmFbAb5EOkVT0-Fnyw14AU55ag_x34VWUl0ifDElLf3jFmL1wV6RDVV0M10FWhOMdMgO6dby_gdGOG24zALQ6318SDdJgM0pckh5x7gez9XLOdl4DQ0CTdLNIbmLn7I-CzB4TJT1sTv_QLkw-Hz_GXOFP7RshirApXAWxI2DZrBB1zUJ1kPy4gzRstJTbiIzB01GoE-HqOIOC4u0OTxYAeO_lD7fqErGakH6AIcbkITUarqp-rvDi3KQsw3NL2wn-SP--1H3vg='
     # 默认不开启代理
     proxy = None
     # 检测自己频道最近500条消息是否已经包含该资源
